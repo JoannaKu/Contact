@@ -81,7 +81,7 @@ body {
 a.clip-each:hover {
   background: #9E566E;
   -webkit-transition: all 0.25s ease-in;
-  transition: all 0.25s ease-in;
+  transition: all 0.6s ease-in;
 }
 .clip-solid {
   width: 300px;
